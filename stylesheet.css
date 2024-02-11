@@ -106,11 +106,9 @@ input, select {
 
 * {
   text-decoration: underline;
-}
+  font-family: 'Protest Revolution', sans-serif;
 
- .first{
-   text-decoration:
- }
+}
 header .header-brand {
   font-family: catamaran;
   font-size: 24px;
