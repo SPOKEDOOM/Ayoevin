@@ -119,6 +119,7 @@ header .header-brand {
   margin: 0 auto;
   text-align: center;
   padding: 20px 0;
+  text-decoration: underline;
 }
 
 header nav ul {
