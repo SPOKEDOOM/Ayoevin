@@ -109,7 +109,7 @@ input, select {
 
 }
 header .header-brand {
-  font-family: 'Protest Revolution', sans-serif;
+  font-family: 'Catamaran', sans-serif;
   font-size: 24px;
   font-weight: 900;
   color: #111;
@@ -134,7 +134,7 @@ header nav ul li {
 }
 
 header nav ul li a {
-  font-family: catamaran;
+  font-family: 'Catamaran', sans-serif;
   font-size: 16px;
   color: #111;
   text-transform: uppercase;
@@ -164,7 +164,7 @@ header .header-cases {
   }
   header .header-cases {
     display: block;
-    font-family: catamaran;
+    font-family: 'Catamaran', sans-serif;
     font-size: 16px;
     color: #111;
     text-transform: uppercase;
@@ -196,7 +196,7 @@ header .header-cases {
 }
 
 .index-banner h2 {
-  font-family: catamaran;
+  font-family: 'Catamaran', sans-serif;
   font-size: 60px;
   color: #fff;
   text-align: center;
@@ -224,7 +224,7 @@ header .header-cases {
 }
 
 .index-links div h3 {
-  font-family: catamaran;
+  font-family: 'Catamaran', sans-serif;
   font-size: 28px;
   color: #111;
   text-transform: uppercase;
@@ -292,7 +292,7 @@ footer {
   }
 
   footer ul li a {
-    font-family: catamaran;
+    font-family: 'Catamaran', sans-serif;
     font-size: 24px;
     color: #fff;
     line-height: 40px;
@@ -320,7 +320,7 @@ footer {
     }
 
     footer ul li p {
-      font-family: catamaran;
+      font-family: 'Catamaran', sans-serif;
       font-size: 24px;
       color: #fff;
       line-height: 40px;
