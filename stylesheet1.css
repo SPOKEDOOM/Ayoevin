@@ -119,10 +119,14 @@ header .header-brand {
   margin: 0 auto;
   text-align: center;
   padding: 20px 0;
-  text-decoration: underline;
 }
 
 header nav ul {
+  margin: 0 auto;
+  display: block;
+  width: fit-content;
+}
+header nav ul .second-port {
   margin: 0 auto;
   display: block;
   width: fit-content;
