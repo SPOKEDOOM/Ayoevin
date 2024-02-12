@@ -126,10 +126,11 @@ header nav ul {
   display: block;
   width: fit-content;
 }
-header nav ul .second-port {
+ .second-port {
   margin: 0 auto;
   display: block;
   width: fit-content;
+  text-decoration: underline;
 }
 
 header nav ul li {
@@ -164,10 +165,12 @@ header .header-cases {
     margin: 20px 0px 0px 20px;
     float: left;
   }
-  header nav ul .second-port {
+
+  .second-port {
     margin: 0 auto;
     display: block;
     width: fit-content;
+    text-decoration: underline;
   }
 
   header nav ul li a {
